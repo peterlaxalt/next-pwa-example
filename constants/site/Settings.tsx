@@ -13,23 +13,23 @@
  *
  */
 export const Settings = {
-  siteTitle: "Covered Insurance Solutions",
-  siteTitleShort: "Covered",
-  siteDescription: "The Effortless Insurance Marketplace.",
+  siteTitle: "Sample PWA App",
+  siteTitleShort: "Sample PWA App",
+  siteDescription: "Sample PWA App",
   siteBaseKeywords:
-    "insurance, home, car, auto, real estate, servicers, lenders, loan originators, loan origination",
-  siteUrl: "https://covered.vercel.app",
-  themeColor: "",
-  secondaryColor: "",
-  backgroundColor: "",
+    "sample, keywords, here",
+  siteUrl: "https://google.com",
+  themeColor: "#fff",
+  secondaryColor: "#000",
+  backgroundColor: "#000",
   pathPrefix: "/",
   logo: "src/assets/images/icon.png",
   logoLight: "src/assets/images/icon.png",
   logoDark: "src/assets/images/icon.png",
   social: {
-    twitter: "covered",
-    facebook: "covered",
-    instagram: "covered",
-    fbAppId: "covered",
+    twitter: "sample-pwa",
+    facebook: "sample-pwa",
+    instagram: "sample-pwa",
+    fbAppId: "sample-pwa",
   },
 };
